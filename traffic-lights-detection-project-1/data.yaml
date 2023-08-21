@@ -1,0 +1,14 @@
+names:
+- green
+- red
+- yellow
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: traffic-lights-detection-project
+  url: https://universe.roboflow.com/furkan-kzlay/traffic-lights-detection-project/dataset/1
+  version: 1
+  workspace: furkan-kzlay
+test: ../test/images
+train: traffic-lights-detection-project-1/train/images
+val: traffic-lights-detection-project-1/valid/images
